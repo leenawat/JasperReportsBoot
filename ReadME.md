@@ -13,6 +13,10 @@ So, execute any where and nothing Servlet Container.
 4. show index.html and click link.
 5. show PDF.
 
+## 2020-09-25 update
+- เพิ่มฟอนต์ไทย - TH Sarabun New
+- add thai font - TH Sarabun New
+  
 ## Font Extensions
 This program include font extensions.
 I set Japanese font,IPAex Mincho (Serif) and IPAex Gothic (SanSerif).
